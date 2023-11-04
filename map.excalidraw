@@ -12417,6 +12417,124 @@
       },
       "startArrowhead": null,
       "endArrowhead": "arrow"
+    },
+    {
+      "id": "-TC6qP5aqM1otARMCRIyr",
+      "type": "arrow",
+      "x": -1558.180640774599,
+      "y": 3193.1797411892185,
+      "width": 1083.4899001179674,
+      "height": 300.555623372396,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1230916048,
+      "version": 367,
+      "versionNonce": 867185456,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699115157255,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1083.4899001179674,
+          300.555623372396
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "nYhDLxBnOazTASVG9YnO_",
+        "focus": 0.35387748896863364,
+        "gap": 1.1111704508462026
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "DmOEfsUCtI6RtwcwM4vjc",
+      "type": "text",
+      "x": -833.1807170685443,
+      "y": 3525.9132906887303,
+      "width": 803.90625,
+      "height": 100.80000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1066380592,
+      "version": 298,
+      "versionNonce": 309485520,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699115146343,
+      "link": null,
+      "locked": false,
+      "text": "The neocortex is a large part of the brain\nIt accounts for around 80% of the brain’s volume \nand uses 44% of its energy",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 94,
+      "containerId": null,
+      "originalText": "The neocortex is a large part of the brain\nIt accounts for around 80% of the brain’s volume \nand uses 44% of its energy",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "nYhDLxBnOazTASVG9YnO_",
+      "type": "rectangle",
+      "x": -853.1805644806536,
+      "y": 3494.8465350124607,
+      "width": 866.1113739013673,
+      "height": 175,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "hachure",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 2,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1851397936,
+      "version": 288,
+      "versionNonce": 1341440304,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "-TC6qP5aqM1otARMCRIyr",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1699115163234,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
