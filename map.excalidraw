@@ -12734,10 +12734,10 @@
     {
       "id": "0lFuNTkNxi8GTiUFivNq_",
       "type": "ellipse",
-      "x": 4995.62811028625,
-      "y": -776.5799080874779,
+      "x": 4955.628262874141,
+      "y": -781.5799080874779,
       "width": 1422.2220865885408,
-      "height": 1433.3333333333326,
+      "height": 1501.6666158040357,
       "angle": 0,
       "strokeColor": "#1971c2",
       "backgroundColor": "#a5d8ff",
@@ -12752,11 +12752,11 @@
         "type": 2
       },
       "seed": 382279028,
-      "version": 441,
-      "versionNonce": 1709266892,
+      "version": 481,
+      "versionNonce": 1136700020,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1699217660716,
+      "updated": 1699219211186,
       "link": null,
       "locked": false
     },
